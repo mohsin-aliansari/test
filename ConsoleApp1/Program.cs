@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is first project 1.1 - from dev branch");
+            Console.WriteLine("This is first project 1.1 - from dev branch 1.2");
 
             Animal a = new Animal();
             a.show();
